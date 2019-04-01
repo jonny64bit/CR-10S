@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware - CR10S
+# Marlin 3D Printer Firmware for CR-10S
 
 Very much a work in progress...
 
