@@ -14,6 +14,7 @@ I'll be tweaking this going forward to improve print quality.
 
 Big thanks to all
 
+- Stock Marlin 1.1.9. [Link](https://github.com/MarlinFirmware/Marlin)
 - Implmented 'Printed Solid' changes. [Link](https://www.printedsolid.com/blogs/news/installing-marlin-1-1-9-on-your-cr-10s-with-mesh-bed-leveling-thermal-protection-better-menu-layout-and-finally-power-resume)
 - Compared differences between this and stock firmware [Link](https://github.com/Creality3DPrinting/CR-10S)
 - Compared differences between this and TH3D unfied firmware [Link](https://github.com/houseofbugs/TH3D-Unified-U1.R2)
