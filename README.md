@@ -10,7 +10,7 @@ I'll be tweaking this going forward to improve print quality.
 
 *Use at own risk. Only tested on 1 CR-10S so far*
 
-## Other peoples work and merged in.
+## Other peoples work used and taken bits from.
 
 Big thanks to all
 
